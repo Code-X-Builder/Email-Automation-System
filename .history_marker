@@ -1,1 +1,2 @@
 // technical change 1 - feat: bootstrap core email ingestion pipeline with IMAP/SMTP support
+// technical change 2 - feat: implement multi-account authentication and OAuth2 token management
