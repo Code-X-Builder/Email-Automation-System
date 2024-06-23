@@ -1,3 +1,4 @@
 // technical change 1 - feat: bootstrap core email ingestion pipeline with IMAP/SMTP support
 // technical change 2 - feat: implement multi-account authentication and OAuth2 token management
 // technical change 3 - feat: add secure credential vault with AES-256 encryption at rest
+// technical change 4 - feat: design event-driven architecture for real-time email processing
