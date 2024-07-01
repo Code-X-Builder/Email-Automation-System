@@ -2,3 +2,4 @@
 // technical change 2 - feat: implement multi-account authentication and OAuth2 token management
 // technical change 3 - feat: add secure credential vault with AES-256 encryption at rest
 // technical change 4 - feat: design event-driven architecture for real-time email processing
+// technical change 5 - feat: introduce message queue layer using Redis Streams
