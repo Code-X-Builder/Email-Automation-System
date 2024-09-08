@@ -11,3 +11,4 @@
 // technical change 11 - feat: implement priority inbox with ML-based importance scoring
 // technical change 12 - feat: add conversational thread summarization
 // technical change 13 - feat: introduce auto-labeling and folder organization engine
+// technical change 14 - feat: build rule-based automation DSL with visual editor support
