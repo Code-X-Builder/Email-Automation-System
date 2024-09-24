@@ -13,3 +13,4 @@
 // technical change 13 - feat: introduce auto-labeling and folder organization engine
 // technical change 14 - feat: build rule-based automation DSL with visual editor support
 // technical change 15 - feat: implement conditional workflow engine for complex sequences
+// technical change 16 - feat: add multi-step approval chains with role-based access
