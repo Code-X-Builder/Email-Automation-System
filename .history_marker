@@ -15,3 +15,4 @@
 // technical change 15 - feat: implement conditional workflow engine for complex sequences
 // technical change 16 - feat: add multi-step approval chains with role-based access
 // technical change 17 - feat: create webhook and API trigger system for external integrations
+// technical change 18 - feat: integrate CRM connectors (Salesforce, HubSpot, Pipedrive)
