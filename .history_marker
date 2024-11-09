@@ -19,3 +19,4 @@
 // technical change 19 - feat: add calendar synchronization and meeting scheduling automation
 // technical change 20 - feat: implement contact enrichment pipeline from public data sources
 // technical change 21 - feat: build bounce and complaint handling with suppression lists
+// technical change 22 - feat: add deliverability monitoring and reputation scoring
