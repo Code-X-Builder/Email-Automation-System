@@ -21,3 +21,4 @@
 // technical change 21 - feat: build bounce and complaint handling with suppression lists
 // technical change 22 - feat: add deliverability monitoring and reputation scoring
 // technical change 23 - feat: introduce A/B testing framework for subject lines and content
+// technical change 24 - feat: implement personalized content injection engine
