@@ -24,3 +24,4 @@
 // technical change 24 - feat: implement personalized content injection engine
 // technical change 25 - feat: create dynamic template system with variable substitution
 // technical change 26 - feat: add multi-language support and automatic translation layer
+// technical change 27 - feat: build attachment processing and virus scanning pipeline
