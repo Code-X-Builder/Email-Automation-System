@@ -28,3 +28,4 @@
 // technical change 28 - feat: implement secure file link generation with expiration
 // technical change 29 - feat: add email tracking with open and click analytics
 // technical change 30 - feat: create real-time dashboard for campaign performance metrics
+// technical change 31 - feat: implement anomaly detection for unusual sending patterns
