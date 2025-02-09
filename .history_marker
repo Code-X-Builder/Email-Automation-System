@@ -31,3 +31,4 @@
 // technical change 31 - feat: implement anomaly detection for unusual sending patterns
 // technical change 32 - feat: add rate limiting and throttling per provider and domain
 // technical change 33 - feat: build failover system across multiple SMTP providers
+// technical change 34 - feat: introduce dedicated IP pool management and warming
