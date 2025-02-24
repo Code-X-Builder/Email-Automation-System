@@ -33,3 +33,4 @@
 // technical change 33 - feat: build failover system across multiple SMTP providers
 // technical change 34 - feat: introduce dedicated IP pool management and warming
 // technical change 35 - feat: implement DKIM, SPF, and DMARC automation
+// technical change 36 - feat: add BIMI support and brand indicator configuration
