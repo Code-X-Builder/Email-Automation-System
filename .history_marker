@@ -40,3 +40,4 @@
 // technical change 40 - feat: add re-engagement and win-back campaign workflows
 // technical change 41 - feat: create lead scoring model integrated with email engagement
 // technical change 42 - feat: implement conversational AI agent for inbound email handling
+// technical change 43 - feat: add sentiment analysis on customer replies
