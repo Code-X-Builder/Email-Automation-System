@@ -44,3 +44,4 @@
 // technical change 44 - feat: build escalation rules based on urgency and tone
 // technical change 45 - feat: introduce human-in-the-loop review queue for sensitive emails
 // technical change 46 - feat: implement audit logging and compliance export (GDPR/CCPA)
+// technical change 47 - feat: add data retention policies and automatic purging
