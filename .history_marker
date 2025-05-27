@@ -45,3 +45,4 @@
 // technical change 45 - feat: introduce human-in-the-loop review queue for sensitive emails
 // technical change 46 - feat: implement audit logging and compliance export (GDPR/CCPA)
 // technical change 47 - feat: add data retention policies and automatic purging
+// technical change 48 - feat: create role-based access control with granular permissions
