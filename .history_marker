@@ -55,3 +55,4 @@
 // technical change 55 - feat: create comprehensive observability with metrics and alerts
 // technical change 56 - feat: optimize cold-start latency for serverless email workers
 // technical change 57 - feat: implement connection pooling and keep-alive for SMTP
+// technical change 58 - feat: add circuit breakers for external provider resilience
