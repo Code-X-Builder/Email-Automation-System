@@ -58,3 +58,4 @@
 // technical change 58 - feat: add circuit breakers for external provider resilience
 // technical change 59 - feat: build retry strategies with exponential backoff and jitter
 // technical change 60 - feat: create dead-letter queue handling and manual recovery tools
+// technical change 61 - feat: implement message deduplication and idempotency keys
