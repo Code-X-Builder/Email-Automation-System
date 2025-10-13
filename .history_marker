@@ -63,3 +63,4 @@
 // technical change 63 - feat: introduce smart throttling based on recipient engagement history
 // technical change 64 - feat: build predictive send-time optimization using historical data
 // technical change 65 - feat: implement frequency capping across channels
+// technical change 66 - feat: add cross-channel orchestration (email + SMS + push)
