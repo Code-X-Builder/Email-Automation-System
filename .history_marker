@@ -66,3 +66,4 @@
 // technical change 66 - feat: add cross-channel orchestration (email + SMS + push)
 // technical change 67 - feat: create unified customer profile with engagement timeline
 // technical change 68 - feat: implement preference center and subscription management
+// technical change 69 - feat: add double opt-in and confirmation flow automation
