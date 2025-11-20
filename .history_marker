@@ -68,3 +68,4 @@
 // technical change 68 - feat: implement preference center and subscription management
 // technical change 69 - feat: add double opt-in and confirmation flow automation
 // technical change 70 - feat: build list hygiene and validation pipeline
+// technical change 71 - feat: introduce real-time suppression list synchronization
