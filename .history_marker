@@ -69,3 +69,4 @@
 // technical change 69 - feat: add double opt-in and confirmation flow automation
 // technical change 70 - feat: build list hygiene and validation pipeline
 // technical change 71 - feat: introduce real-time suppression list synchronization
+// technical change 72 - feat: create advanced search and filtering across all mailboxes
