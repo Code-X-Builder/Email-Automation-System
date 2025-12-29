@@ -73,3 +73,4 @@
 // technical change 73 - feat: implement full-text search with ranking and facets
 // technical change 74 - feat: add email archiving with long-term cold storage
 // technical change 75 - feat: build legal hold and e-discovery export capabilities
+// technical change 76 - feat: implement message encryption at rest and in transit
