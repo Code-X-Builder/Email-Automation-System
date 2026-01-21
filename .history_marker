@@ -76,3 +76,4 @@
 // technical change 76 - feat: implement message encryption at rest and in transit
 // technical change 77 - feat: add client-side encryption option for sensitive threads
 // technical change 78 - feat: create secure shared inbox with collaborative features
+// technical change 79 - feat: implement internal notes and assignment workflows
