@@ -77,3 +77,4 @@
 // technical change 77 - feat: add client-side encryption option for sensitive threads
 // technical change 78 - feat: create secure shared inbox with collaborative features
 // technical change 79 - feat: implement internal notes and assignment workflows
+// technical change 80 - feat: add SLA tracking and breach notifications
