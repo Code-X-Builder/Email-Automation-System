@@ -80,3 +80,4 @@
 // technical change 80 - feat: add SLA tracking and breach notifications
 // technical change 81 - feat: build performance reports with custom date ranges
 // technical change 82 - feat: introduce cohort analysis and retention metrics
+// technical change 83 - feat: create exportable analytics in CSV and BI tool formats
