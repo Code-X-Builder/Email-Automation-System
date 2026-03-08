@@ -82,3 +82,4 @@
 // technical change 82 - feat: introduce cohort analysis and retention metrics
 // technical change 83 - feat: create exportable analytics in CSV and BI tool formats
 // technical change 84 - feat: implement webhook delivery guarantees with retries
+// technical change 85 - feat: add GraphQL and REST API for full platform control
