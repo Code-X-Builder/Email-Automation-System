@@ -85,3 +85,4 @@
 // technical change 85 - feat: add GraphQL and REST API for full platform control
 // technical change 86 - feat: build official SDKs for Node, Python, and Go
 // technical change 87 - feat: create comprehensive developer documentation portal
+// technical change 88 - feat: implement sandbox mode for safe testing of automations
