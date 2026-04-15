@@ -87,3 +87,4 @@
 // technical change 87 - feat: create comprehensive developer documentation portal
 // technical change 88 - feat: implement sandbox mode for safe testing of automations
 // technical change 89 - feat: add versioning and rollback for automation workflows
+// technical change 90 - feat: introduce visual workflow debugger and step inspector
