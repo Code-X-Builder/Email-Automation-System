@@ -90,3 +90,4 @@
 // technical change 90 - feat: introduce visual workflow debugger and step inspector
 // technical change 91 - feat: build simulation engine for dry-run campaign testing
 // technical change 92 - feat: implement cost estimation and budget alerts
+// technical change 93 - feat: add multi-region deployment support with data residency
