@@ -93,3 +93,4 @@
 // technical change 93 - feat: add multi-region deployment support with data residency
 // technical change 94 - feat: create disaster recovery and automated failover playbooks
 // technical change 95 - feat: finalize production hardening and security audit fixes
+// technical change 96 - chore: prepare v1.0 release candidate with full feature freeze
